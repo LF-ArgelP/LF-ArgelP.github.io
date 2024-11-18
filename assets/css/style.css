@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500;700&display=swap');
+
+body {
+    font-family: 'Inconsolata', monospace;
+    font-weight: medium;
+}
+
+.bg-navbar {
+    background-color: #836410;
+}
+
+.seccion-header {
+    background-color: #836410;
+    color: #5f1494;
+    box-shadow: 0px 5px 9px rgba(0, 0, 0, .4);
+}
+
+.seccion-header-contenedor {
+    padding: 75px 0px;
+}
+
+.seccion-header-p {
+    color: #5f1494;
+}
+
+.seccion-header-h5 {
+    color: #09cf13;
+}
+
+.seccion-main-h5 {
+    color: #5f1494;
+}
+
+.btn-trabajos {
+    border-color: #ed0f07;
+    color: #5f1494;
+}
+
+.trabajos-h1 {
+    font-size: 70px;
+    padding: 60px 0px;
+}
+
+.seccion-contacto {
+    background-color: #836410;
+}
+
+.seccion-contacto-h1 {
+    font-size: 45px;
+    color: #fff;
+}
+
+.seccion-contacto-caja {
+    padding: 40px 0;
+}
